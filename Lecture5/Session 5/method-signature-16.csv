@@ -1,0 +1,17 @@
+﻿Method,Signature,Description,Best Practice
+open(),"open(file, mode='r', encoding=None)",Opens file and returns file object,Always use with with statement
+read(),read(size=-1),Reads entire file or specified bytes,Use size parameter for large files
+readline(),readline(size=-1),Reads single line,Use for line‑by‑line processing
+readlines(),readlines(hint=-1),Returns list of all lines,Avoid for large files; prefer iteration
+write(),write(string),Writes string to file,Always specify encoding
+writelines(),writelines(lines),Writes list of strings,Add newline characters explicitly
+seek(),"seek(offset, whence=0)",Changes file position,Use for random access operations
+tell(),tell(),Returns current position,Use for tracking read/write progress
+close(),close(),Closes the file,Not needed with with statement
+truncate(),truncate(size=None),Resizes file,Backup before truncating
+flush(),flush(),Flushes write buffer,Use for critical data before operations
+fileno(),fileno(),Returns file descriptor,For low‑level operations
+isatty(),isatty(),Checks if connected to terminal,Useful for interactive programs
+readable(),readable(),Checks if file is readable,Validate before reading
+writable(),writable(),Checks if file is writable,Validate before writing
+seekable(),seekable(),Checks if seek is supported,Validate before using seek
