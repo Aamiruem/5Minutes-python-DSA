@@ -1,0 +1,80 @@
+Module 10 : Basic Programs
+
+Swap Numbers
+
+Even Odd
+
+Largest Number
+
+Leap Year
+
+Factorial
+
+Palindrome
+
+Prime
+
+Reverse Number
+
+Sum of Digits
+
+Armstrong
+
+Fibonacci
+
+LCM
+
+HCF
+30 Basic Interview Questions
+Why Python?
+Interpreter vs Compiler?
+What is PEP 8?
+What is Variable?
+Dynamic Typing?
+Mutable Objects?
+Immutable Objects?
+List vs Tuple?
+Set vs Dictionary?
+Identity Operator?
+Membership Operator?
+Floor Division?
+Modulus?
+Boolean?
+Input always returns?
+Type Conversion?
+What is None?
+What is pass?
+Difference between is and ==?
+What is id()?
+What is type()?
+How memory works?
+What is object?
+What is reference?
+Garbage Collection?
+Python execution flow?
+Python Virtual Machine?
+Bytecode?
+Why indentation?
+Why Python is slow compared to C?
+Pattern Programs
+20 Must-Practice Coding Problems
+Hello World
+Sum of Two Numbers
+Calculator
+Even or Odd
+Largest of Three Numbers
+Swap Two Variables
+Factorial
+Fibonacci Series
+Prime Number Check
+Armstrong Number
+Reverse a Number
+Reverse a String
+Palindrome Check
+Count Digits
+Sum of Digits
+Find Maximum in a List
+Find Minimum in a List
+Remove Duplicates from a List
+Count Vowels in a String
+Find Second Largest Element
